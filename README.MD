@@ -57,7 +57,7 @@ Before running backend, install:
 
 ### 👉 Step 1: Clone Backend Repo
 ```bash
-git clone https://github.com/yourusername/iphone-store-backend.git
+git https://github.com/2512001/istoreBackend.git
 cd iphone-store-backend
 
 👉 Step 2: Install dependencies
