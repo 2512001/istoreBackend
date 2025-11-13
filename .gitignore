@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+adminFlow/
+
+# build output
+dist/
+dist-ssr/
+*.local
+
+# environment variables
+.env
+.env.*.local
